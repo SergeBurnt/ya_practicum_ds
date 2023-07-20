@@ -7,4 +7,5 @@
 
 | Проект        | Общая информация           | Библиотеки |
 | ------------- |:-------------|:-----:|
+|[Определение стоимости автомобилей](https://github.com/SergeBurnt/ya_practicum_ds/tree/main/project_telecom_customer_churn)|Необходимо построить модель для определения стоимости автомобиля, с учетом ограничений обозначенных заказчиком|`CatBoost` `LightGBM` `sklearn` `Matplotlib` `Pandas` `Numpy`|
 |[Прогнозирование оттока клиентов оператора связи](https://github.com/SergeBurnt/ya_practicum_ds/tree/main/project_telecom_customer_churn)|Необходимо с высокой точностью прогнозировать отток клиентов телеком-оператора. Это позволит своевременно предложить промокоды и бонусы и сохранить клиента. |`CatBoost` `sklearn` `Seaborn` `Matplotlib` `Pandas` `Numpy`|
