@@ -9,3 +9,9 @@
 |------|----------------|----------|
 |[Прогнозирование оттока клиентов оператора связи](https://github.com/SergeBurnt/ya_practicum_ds/tree/main/project_telecom_customer_churn)||
 |||
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
