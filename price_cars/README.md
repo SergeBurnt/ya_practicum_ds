@@ -29,7 +29,7 @@
 
 Целевой признак
 
-`Price` — цена (евро)
+`price` — цена (евро)
 
 ## Используемые инструменты
 `CatBoost` `LightGBM` `sklearn` `pandas` `numpy` `matplotlib` `time`
