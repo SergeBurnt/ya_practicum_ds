@@ -4,4 +4,4 @@
 Ссылка на курс: https://praktikum.yandex.ru/data-scientist/
 
 ## Содержание:
-[Прогнозирование оттока клиентов телеком](https://github.com/SergeBurnt/ya_practicum_ds/tree/main/project_telecom_customer_churn)
+[Прогнозирование оттока клиентов оператора связи](https://github.com/SergeBurnt/ya_practicum_ds/tree/main/project_telecom_customer_churn)
