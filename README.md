@@ -1,3 +1,3 @@
-# ya_practicum_ds
+# Яндекс Практикум "Data Science"
 
 ## Title
