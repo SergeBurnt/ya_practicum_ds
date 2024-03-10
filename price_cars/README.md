@@ -33,4 +33,4 @@
 `CatBoostRegressor` `RandomForestRegressor` `KNN` `Lasso`
 
 ## Метрики
-`mean_squared_error`
+`mean_squared_error` `mean_absolute_error`
