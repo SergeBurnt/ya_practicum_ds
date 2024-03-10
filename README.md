@@ -1,7 +1,12 @@
+Репозиторий с учебными проектами
+
 # Яндекс Практикум "Data Science"
-Репозиторий с проектами, созданными в рамках курса "Специалист Data Science" в Яндекс.Практикум
 
 Ссылка на курс: https://praktikum.yandex.ru/data-scientist/
+
+# Karpov.Courses "Start ML"
+
+Ссылка на курс: https://karpov.courses/ml-start
 
 ## Содержание:
 
